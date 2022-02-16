@@ -33,7 +33,7 @@ Examples (but not limited to): cancelled orders, systems downtime, data loss.
 > In this section, describe what steps have been taken to mitigate and solve the incident. It can be built as a timeline. 
 
 ## Root Cause Analysis
-> The goal of this section is to describe what in fact caused this incident and prevented an earlier resolution. Try to go deeper in the analysis -the [“5 whys”](https://en.wikipedia.org/wiki/Five_whys) technique can be helpful.  
+> The goal of this section is to describe what in fact caused this incident and prevented an earlier resolution. Try to go deeper in the analysis. The [“5 whys”](https://en.wikipedia.org/wiki/Five_whys) technique can be helpful.  
 > For example, if a bug caused the incident, try to think why it wasn’t detected before going to production and why it took some time to notice it.
 
 ## Future Prevention
